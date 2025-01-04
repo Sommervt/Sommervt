@@ -16,8 +16,8 @@
 ---
 
 ### 📊 Estadísticas
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=TuNombreDeUsuario&show_icons=true&theme=radical)
-![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=TuNombreDeUsuario&layout=compact&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sommervt&show_icons=true&theme=radical)
+![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=Sommervt&layout=compact&theme=radical)
 
 ---
 
