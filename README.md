@@ -1,4 +1,4 @@
-# 👋 ¡Hola, soy Sommerfeld!
+[# 👋 ¡Hola, soy Sommerfeld!
 
 ### 🌟 Sobre mí
 - 🌱 Actualmente estoy aprendiendo a usar Linux, Python, y proximamente en ensamblador y C++ y C.
@@ -8,10 +8,7 @@
 ---
 
 ### 🛠️ Tecnologías y herramientas
-![Python](https://img.shields.io/badge/-Python-333?style=flat&logo=python)
-![Css](https://img.shields.io/badge/-css-333?style=flat&logo=css)
-![C++](https://img.shields.io/badge/-C++-333?style=flat&logo=C++)
-![Linux](https://img.shields.io/badge/-Linux-333?style=flat&logo=linux)
+[![My Skills](https://skillicons.dev/icons?i=python,js,html,css,cpp,linux)](https://skillicons.dev)
 
 ---
 
@@ -21,7 +18,5 @@
 
 ---
 
-### 🌐 Encuéntrame aquí
-[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://instagram.com/nothing_.ez)  
-[![TikTok](https://img.shields.io/badge/-TikTok-000000?style=flat&logo=tiktok&logoColor=white)](https://tiktok.com/@sommerfeld_.ag)
+### Este es mi Discord, Hablame, con gusto contestare
 [![Discord Presence](https://lanyard.cnrad.dev/api/1221348290982056098)](https://discord.com/users/1221348290982056098)
