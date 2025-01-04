@@ -9,8 +9,8 @@
 
 ### 🛠️ Tecnologías y herramientas
 ![Python](https://img.shields.io/badge/-Python-333?style=flat&logo=python)
-![css](https://img.shields.io/badge/-css-333?style=flat&logo=css)
-![Docker](https://img.shields.io/badge/-Docker-333?style=flat&logo=docker)
+![Css](https://img.shields.io/badge/-css-333?style=flat&logo=css)
+![C++](https://img.shields.io/badge/-C++-333?style=flat&logo=C++)
 ![Linux](https://img.shields.io/badge/-Linux-333?style=flat&logo=linux)
 
 ---
