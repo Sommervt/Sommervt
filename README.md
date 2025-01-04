@@ -1,14 +1,14 @@
-[# 👋 ¡Hola, soy Sommerfeld!
+### 👋 ¡Hola, soy Sommerfeld!
 
 ### 🌟 Sobre mí
-- 🌱 Actualmente estoy aprendiendo a usar Linux, Python, y proximamente en ensamblador y C++ y C.
+- 🌱 Actualmente estoy aprendiendo a usar Linux, Python, ya le se algo, y proximamente en ensamblador y C++ y C.
 - 💻 Interesado en Ing. de Software.
 - 🌍 Idiomas: Español, Ingles.
 
 ---
 
 ### 🛠️ Tecnologías y herramientas
-[![My Skills](https://skillicons.dev/icons?i=python,js,html,css,cpp,linux)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,js,java,css,linux)](https://skillicons.dev)
 
 ---
 
