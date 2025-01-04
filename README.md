@@ -1,10 +1,9 @@
-# 👋 ¡Hola, soy [Tu Nombre]!
+# 👋 ¡Hola, soy Sommerfeld!
 
 ### 🌟 Sobre mí
-- 🌱 Actualmente estoy aprendiendo [temas o tecnologías].
-- 💻 Interesado en [áreas de interés].
-- 🌍 Idiomas: [idiomas que hablas].
-- ✨ Hobbies: [tus pasatiempos o intereses personales].
+- 🌱 Actualmente estoy aprendiendo a usar Linux, Python, y proximamente en ensamblador y C++ y C.
+- 💻 Interesado en Ing. de Software.
+- 🌍 Idiomas: Español, Ingles.
 
 ---
 
@@ -22,7 +21,6 @@
 
 ---
 
-### 🌐 Conéctate conmigo
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin)](https://linkedin.com/in/TuPerfil)
-[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat&logo=twitter)](https://twitter.com/TuUsuario)
-[![Portafolio](https://img.shields.io/badge/-Portafolio-000?style=flat&logo=web)](https://tuportafolio.com)
+### 🌐 Encuéntrame aquí
+[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://instagram.com/nothing_.ez)  
+[![TikTok](https://img.shields.io/badge/-TikTok-000000?style=flat&logo=tiktok&logoColor=white)](https://tiktok.com/@sommerfeld_.ag)
