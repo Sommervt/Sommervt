@@ -1,9 +1,8 @@
 ### 👋 ¡Hola, soy Sommerfeld!
 
 ### 🌟 Sobre mí
-- 🌱 Actualmente estoy aprendiendo a usar Linux, Python, ya le se algo, y proximamente en ensamblador y C++ y C.
-- 💻 Interesado en Ing. de Software.
-- 🌍 Idiomas: Español, Ingles.
+- 🌱 HONOR 6 magic lite is Good.
+- 🌍 Idiomas: Español, Ingles, Japones.
 
 ---
 
