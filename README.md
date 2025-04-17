@@ -1,13 +1,13 @@
-### 👋 ¡Hola, soy Sommerfeld!
+### 👋 Naturalmente soy muy reservado, eso no pasa si agarro confianza.
 
 ### 🌟 Sobre mí
-- 🌱 HONOR 6 magic lite is Good.
-- 🌍 Idiomas: Español, Ingles, Japones.
-
+- HONOR 6 magic lite is Good.
+- Idiomas: Español, Ingles, Japones.
+- Edad: 17 años 
 ---
 
 ### 🛠️ Tecnologías y herramientas
-[![My Skills](https://skillicons.dev/icons?i=python,js,java,css,linux)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,js,java,html,css,linux)](https://skillicons.dev)
 
 ---
 
