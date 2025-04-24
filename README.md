@@ -1,4 +1,4 @@
-### 👋 Naturalmente soy muy reservado, eso no pasa si agarro confianza.
+### 👋 Hoy no mañana si.
 
 ### 🌟 Sobre mí
 - HONOR 6 magic lite is Good.
@@ -17,5 +17,5 @@
 
 ---
 
-### Este es mi Discord, Hablame, con gusto contestare
+### Discord
 [![Discord Presence](https://lanyard.cnrad.dev/api/1221348290982056098)](https://discord.com/users/1221348290982056098)
