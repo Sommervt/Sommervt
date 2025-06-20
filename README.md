@@ -7,7 +7,7 @@
 ---
 
 ### 🛠️ Tecnologías y herramientas
-[![My Skills](https://skillicons.dev/icons?i=python,js,java,html,css,linux)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,js,java,html,css,rust,linux)](https://skillicons.dev)
 
 ---
 
