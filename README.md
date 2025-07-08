@@ -1,5 +1,7 @@
 ### 
-![Dancing Skeleton](https://media.giphy.com/media/WKdWA04KRn58A/giphy.gif) 
+<p align="center">
+  <img src="https://media.giphy.com/media/WKdWA04KRn58A/giphy.gif" alt="Dancing Skeleton">
+</p> 
 
 ### 🌟 Sobre mí
 - HONOR 6 magic lite is Good.
