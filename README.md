@@ -4,8 +4,8 @@
 </p> 
 
 ### 🌟 Sobre mí
-- HONOR 6 magic lite is Good.
-- Idiomas: Español, Ingles, Japones.
+- Windows 11.
+- Idiomas: Español, English, 日本語.
 - Edad: 17 años 
 ---
 
