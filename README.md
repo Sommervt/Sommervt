@@ -10,7 +10,7 @@
 ---
 
 ### 🛠️ Technologies and tools
-[![My Skills](https://skillicons.dev/icons?i=python,js,C,C++,html,css,rust,linux)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,js,c,cpp,html,css,rust,linux)](https://skillicons.dev)
 
 ---
 
