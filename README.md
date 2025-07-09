@@ -3,22 +3,22 @@
   <img src="https://media.giphy.com/media/WKdWA04KRn58A/giphy.gif" alt="Dancing Skeleton">
 </p> 
 
-### 🌟 Sobre mí
+### 🌟
 - Windows 11.
-- Idiomas: Español, English, 日本語.
-- Edad: 17 años 
+- Languages: Español, English, 日本語.
+- Age: 17 Years
 ---
 
-### 🛠️ Tecnologías y herramientas
+### 🛠️ Technologies and tools
 [![My Skills](https://skillicons.dev/icons?i=python,js,java,html,css,rust,linux)](https://skillicons.dev)
 
 ---
 
-### 📊 Estadísticas
+### 📊 Statistics
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sommervt&show_icons=true&theme=radical)
 ![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=Sommervt&layout=compact&theme=radical)
 
 ---
 
-### Discord
+### 🎲 Discord
 [![Discord Presence](https://lanyard.cnrad.dev/api/1221348290982056098)](https://discord.com/users/1221348290982056098)
