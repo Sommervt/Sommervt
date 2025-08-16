@@ -15,8 +15,7 @@
 ---
 
 ### 📊 Statistics
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sommervt&show_icons=true&theme=radical)
-![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=Sommervt&layout=compact&theme=radical)
+![Statistics Overview](https://raw.githubusercontent.com/Sommervt/hi/master/generated/overview.svg)  ![Languages Overview](https://raw.githubusercontent.com/Sommervt/hi/master/generated/languages.svg)
 
 ---
 
