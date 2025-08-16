@@ -15,7 +15,8 @@
 ---
 
 ### 📊 Statistics
-![Statistics Overview](https://raw.githubusercontent.com/Sommervt/Sommervt/main/generated/overview.svg)  ![Languages Overview](https://raw.githubusercontent.com/Sommervt/Sommervt/main/generated/languages.svg)
+![Overview](https://raw.githubusercontent.com/Sommervt/hi/master/generated/overview.svg)
+![Languages](https://raw.githubusercontent.com/Sommervt/hi/master/generated/languages.svg)
 
 ---
 
