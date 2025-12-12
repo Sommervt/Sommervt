@@ -4,7 +4,7 @@
 </p> 
 
 ### 🌟
-- Windows 11.
+- Windows 11 and Linux.
 - Languages: Español, English, 日本語.
 - Age: 17 Years
 ---
