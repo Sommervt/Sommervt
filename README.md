@@ -4,7 +4,7 @@
 </p> 
 
 ### General
-- Windows 11 Home and CachyOS + Hyprland + Caelestia-dots.
+- Windows 11 Home and CachyOS + Hyprland + End-4.
 - Languages: Español, English, 日本語.
 - Age: 18 Years
 ---
