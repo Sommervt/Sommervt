@@ -7,6 +7,7 @@
 - Windows 11 Home and CachyOS + Hyprland + End-4.
 - Languages: Español, English, 日本語.
 - Age: 18 Years
+
 ---
 
 ### Technologies and tools
@@ -15,6 +16,12 @@
 ---
 
 ### Statistics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Sommervt&show_icons=true&theme=transparent&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sommervt&layout=compact&theme=transparent&hide_border=true" />
+</p>
+
 ![Overview](https://raw.githubusercontent.com/Sommervt/hi/master/generated/overview.svg)
 ![Languages](https://raw.githubusercontent.com/Sommervt/hi/master/generated/languages.svg)
 
