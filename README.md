@@ -22,9 +22,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sommervt&layout=compact&theme=transparent&hide_border=true" />
 </p>
 
-![Overview](https://raw.githubusercontent.com/Sommervt/hi/master/generated/overview.svg)
-![Languages](https://raw.githubusercontent.com/Sommervt/hi/master/generated/languages.svg)
-
 ---
 
 ### Discord
