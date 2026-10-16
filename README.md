@@ -1,4 +1,4 @@
- <p align="center">
+<p align="center">
   <img src="https://media.giphy.com/media/WKdWA04KRn58A/giphy.gif" alt="Dancing Skeleton">
 </p>
 
@@ -24,23 +24,13 @@
 
 <p align="center">
   <img
-    src="https://github-stats-extended-rouge.vercel.app/api?username=Sommervt&show_icons=true&theme=transparent&hide_border=true&include_all_commits=true"
+    src="https://github-stats-extended-rouge.vercel.app/api?username=Sommervt&show_icons=true&theme=transparent&hide_border=true&include_all_commits=true&cache_seconds=14400&v=2"
     alt="GitHub Statistics"
     height="170"
   />
   <img
-    src="https://github-stats-extended-rouge.vercel.app/api/top-langs?username=Sommervt&layout=compact&theme=transparent&hide_border=true&langs_count=8"
+    src="https://github-stats-extended-rouge.vercel.app/api/top-langs?username=Sommervt&layout=compact&theme=transparent&hide_border=true&langs_count=8&cache_seconds=14400&v=2"
     alt="Most Used Languages"
     height="170"
   />
-</p>
-
----
-
-### Discord
-
-<p align="center">
-  <a href="https://discord.com/users/1221348290982056098">
-    <img src="https://lanyard.cnrad.dev/api/1221348290982056098" alt="Discord Presence" />
-  </a>
 </p>
