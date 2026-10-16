@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://media.giphy.com/media/WKdWA04KRn58A/giphy.gif" alt="Dancing Skeleton">
+  <img src="https://i.pinimg.com/originals/8b/d3/ba/8bd3ba3aab63b4b3206c6abea727d14d.gif" alt="Dancing Skeleton">
 </p>
 
 ### General
