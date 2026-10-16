@@ -34,3 +34,8 @@
     height="170"
   />
 </p>
+
+---
+
+### Discord User
+[![Discord Presence](https://lanyard.cnrad.dev/api/1221348290982056098)](https://discord.com/users/1221348290982056098) 
