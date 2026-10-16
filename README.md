@@ -1,4 +1,4 @@
-<p align="center">
+ <p align="center">
   <img src="https://media.giphy.com/media/WKdWA04KRn58A/giphy.gif" alt="Dancing Skeleton">
 </p>
 
@@ -14,7 +14,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,js,c,cs,cpp,html,css,rust,linux,windows&perline=10" alt="Technologies and tools" />
+    <img src="https://skillicons.dev/icons?i=python,js,c,cs,cpp,html,css,rust,ruby,linux,windows&perline=11" alt="Technologies and tools" />
   </a>
 </p>
 
@@ -24,12 +24,12 @@
 
 <p align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api?username=Sommervt&show_icons=true&theme=transparent&hide_border=true&include_all_commits=true"
+    src="https://github-stats-extended-rouge.vercel.app/api?username=Sommervt&show_icons=true&theme=transparent&hide_border=true&include_all_commits=true"
     alt="GitHub Statistics"
     height="170"
   />
   <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sommervt&layout=compact&theme=transparent&hide_border=true&langs_count=8"
+    src="https://github-stats-extended-rouge.vercel.app/api/top-langs?username=Sommervt&layout=compact&theme=transparent&hide_border=true&langs_count=8"
     alt="Most Used Languages"
     height="170"
   />
