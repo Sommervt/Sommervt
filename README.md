@@ -4,7 +4,7 @@
 
 ### General
 
-- Operating Systems: Windows 11 Home, Android 14, and Linux CachyOS coming soon.
+- Operating Systems: Windows 11 Home, Android 15, and Linux CachyOS coming soon.
 - Languages: Español, English, 日本語.
 - Age: 18 years.
 - I like melons, idk i thing is important for me.
