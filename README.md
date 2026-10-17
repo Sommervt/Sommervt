@@ -41,6 +41,8 @@
 ---
 
 ### Discord User
-<align="center">
-[![Discord Presence](https://lanyard.cnrad.dev/api/1221348290982056098)](https://discord.com/users/1221348290982056098)
-</>
+<p align="center">
+  <a href="https://discord.com/users/1221348290982056098">
+    <img src="https://lanyard.cnrad.dev/api/1221348290982056098" alt="Discord Presence" />
+  </a>
+</p>
