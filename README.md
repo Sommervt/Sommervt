@@ -32,7 +32,7 @@
     height="170"
   />
   <img
-    src="https://github-stats-extended-rouge.vercel.app/api/top-langs?username=Sommervt&layout=compact&theme=transparent&hide_border=true&langs_count=8&cache_seconds=14400&v=2"
+    src="https://github-stats-extended-rouge.vercel.app/api/top-langs?username=Sommervt&layout=compact&theme=transparent&hide_border=true&langs_count=8&hide=shaderlab,hlsl&cache_seconds=14400&v=2"
     alt="Most Used Languages"
     height="170"
   />
